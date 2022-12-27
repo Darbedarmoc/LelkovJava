@@ -1,4 +1,4 @@
-package lab_6;
+package Lab_7;
 import java.util.Scanner;
 public class Task_1 {
 	public static void main(String[] args) {
